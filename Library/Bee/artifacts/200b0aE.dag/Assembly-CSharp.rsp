@@ -377,9 +377,9 @@
 -r:"Library/Bee/artifacts/200b0aE.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aE.dag/UnityEngine.UI.ref.dll"
-"Assets/MeleeEnemy.cs"
-"Assets/PlayerContoller.cs"
-"Assets/Spawner.cs"
+"Assets/Scripts/MeleeEnemy.cs"
+"Assets/Scripts/PlayerContoller.cs"
+"Assets/Scripts/Spawner.cs"
 -langversion:9.0
 
 /deterministic
