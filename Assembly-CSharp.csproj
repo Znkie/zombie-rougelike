@@ -90,6 +90,12 @@
     <Compile Include="Assets\PlayerContoller.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
+    <Compile Include="Assets\Character Asset\Demo_GameResource\Script\CharacterController_2D.cs" />
+    <Compile Include="Assets\Character Asset\Demo_GameResource\Script\DestroyEffect.cs" />
+    <Compile Include="Assets\Character Asset\Demo_GameResource\Script\Demo_GM.cs" />
+    <Compile Include="Assets\Character Asset\Demo_GameResource\Script\ColliderEvent_Sender.cs" />
+    <Compile Include="Assets\Character Asset\BURLY-MAN_1_swordsman\Free_GM.cs" />
+    <Compile Include="Assets\Character Asset\Demo_GameResource\Script\WoodDoll_Mgr.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
