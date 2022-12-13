@@ -380,6 +380,7 @@
 -r:"Library/Bee/artifacts/1900b0aEDbg.dag/UnityEngine.UI.ref.dll"
 "Assets/Scripts/BefallenPeasant.cs"
 "Assets/Scripts/MeleeEnemy.cs"
+"Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/Spawner.cs"
 "Assets/Scripts/StartMenu.cs"
 -langversion:9.0

@@ -2,13 +2,14 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class PlayerContoller : MonoBehaviour
+public class PlayerController : MonoBehaviour
 {
     int allyHealth = 10;
     int jumpCount = 0;
     int jumpMax = 1;
     public float playerSpeed;  //allows us to be able to change speed in Unity
     public Vector2 jumpHeight;
+    public Vector2 DashSpeed;
 
     // Use this for initialization
     void Start()
@@ -32,6 +33,12 @@ public class PlayerContoller : MonoBehaviour
             GetComponent<Rigidbody2D>().AddForce(jumpHeight, ForceMode2D.Impulse);
             jumpCount += 1;
             Debug.Log(jumpCount+" jump");
+        }
+
+        if (Input.GetKeyDown(KeyCode.Space))  //makes player dash
+        {
+            GetComponent<Rigidbody2D>().AddForce(DashSpeed, ForceMode2D.Impulse);
+
         }
         
     }

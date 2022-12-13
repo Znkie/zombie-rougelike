@@ -377,9 +377,10 @@
 -r:"Library/Bee/artifacts/200b0aEDbg.dag/Unity.VSCode.Editor.ref.dll"
 -r:"Library/Bee/artifacts/200b0aEDbg.dag/UnityEditor.UI.ref.dll"
 -r:"Library/Bee/artifacts/200b0aEDbg.dag/UnityEngine.UI.ref.dll"
+"Assets/Platform.cs"
 "Assets/Scripts/BefallenPeasant.cs"
 "Assets/Scripts/MeleeEnemy.cs"
-"Assets/Scripts/PlayerContoller.cs"
+"Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/Spawner.cs"
 "Assets/Scripts/StartMenu.cs"
 -langversion:9.0
