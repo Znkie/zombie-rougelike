@@ -5,16 +5,26 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 638043073800000000
     m_Hash: 115155800
+=======
+      ticks: 638066347860000000
+    m_Hash: 3482761880
+>>>>>>> Stashed changes
   m_LockFileStatus:
     m_FilePath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
+<<<<<<< Updated upstream
       ticks: 638043075500000000
     m_Hash: 871850473
+=======
+      ticks: 638066347860000000
+    m_Hash: 2108034099
+>>>>>>> Stashed changes
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:

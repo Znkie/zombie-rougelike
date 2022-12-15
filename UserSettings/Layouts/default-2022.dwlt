@@ -19,7 +19,11 @@ MonoBehaviour:
     width: 2560
     height: 1302
   m_ShowMode: 4
+<<<<<<< Updated upstream
   m_Title: Hierarchy
+=======
+  m_Title: Game
+>>>>>>> Stashed changes
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +52,11 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
+<<<<<<< Updated upstream
   controlID: 17
+=======
+  controlID: 47
+>>>>>>> Stashed changes
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -92,8 +100,13 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< Updated upstream
     width: 484.5
     height: 741
+=======
+    width: 228.5
+    height: 740.5
+>>>>>>> Stashed changes
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -117,9 +130,15 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< Updated upstream
     y: 741
     width: 1954
     height: 511
+=======
+    y: 740.5
+    width: 952.5
+    height: 511.5
+>>>>>>> Stashed changes
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 12}
@@ -223,7 +242,11 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
+<<<<<<< Updated upstream
   controlID: 18
+=======
+  controlID: 48
+>>>>>>> Stashed changes
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -305,7 +328,7 @@ MonoBehaviour:
     m_LastAppliedPresetName: Default
     m_SaveData: []
   m_SearchFilter:
-    m_NameFilter: 
+    m_NameFilter: sci
     m_ClassNames: []
     m_AssetLabels: []
     m_AssetBundleNames: []
@@ -315,11 +338,16 @@ MonoBehaviour:
     m_SceneHandles: 
     m_ShowAllHits: 0
     m_SkipHidden: 0
+<<<<<<< Updated upstream
     m_SearchArea: 1
     m_Folders:
     - Assets/Sunnyland/artwork/Environment
+=======
+    m_SearchArea: 0
+    m_Folders: []
+>>>>>>> Stashed changes
     m_Globs: []
-    m_OriginalText: 
+    m_OriginalText: sci
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
@@ -330,9 +358,15 @@ MonoBehaviour:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
     m_SelectedIDs: 34660000
     m_LastClickedID: 26164
     m_ExpandedIDs: 00000000286600002a6600002c6600002e6600003066000032660000346600003666000000ca9a3bffffff7f
+=======
+    m_SelectedIDs: 
+    m_LastClickedID: 0
+    m_ExpandedIDs: 000000008e66000090660000926600009466000096660000986600009a6600009c6600009e660000a0660000a266000000ca9a3b
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +394,11 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< Updated upstream
     m_ExpandedIDs: 00000000286600002a6600002c6600002e66000030660000326600003466000036660000
+=======
+    m_ExpandedIDs: 000000008e66000090660000926600009466000096660000986600009a6600009c6600009e660000a0660000a2660000
+>>>>>>> Stashed changes
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -488,9 +526,15 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< Updated upstream
       m_SelectedIDs: 24f1ffff22f1ffff20f1ffff
       m_LastClickedID: -3808
       m_ExpandedIDs: 44fbffffd0640000
+=======
+      m_SelectedIDs: dea40000
+      m_LastClickedID: 42206
+      m_ExpandedIDs: accbffff32f9ffff
+>>>>>>> Stashed changes
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -634,7 +678,7 @@ MonoBehaviour:
       containerId: overlay-container--right
       floating: 0
       collapsed: 0
-      displayed: 0
+      displayed: 1
       snapOffset: {x: 0, y: 0}
       snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 0
@@ -805,9 +849,15 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< Updated upstream
     m_Target: {x: 28.316347, y: -2.244793, z: -0.37364855}
     speed: 2
     m_Value: {x: 28.382757, y: -2.2332919, z: -0.37420285}
+=======
+    m_Target: {x: 8.799999, y: 10.039882, z: -0.10519635}
+    speed: 2
+    m_Value: {x: 8.799999, y: 10.039882, z: -0.10519635}
+>>>>>>> Stashed changes
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -857,9 +907,15 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: 0, y: 0, z: 0, w: 1}
   m_Size:
+<<<<<<< Updated upstream
     m_Target: 2.3285823
     speed: 2
     m_Value: 2.3840106
+=======
+    m_Target: 38.889923
+    speed: 2
+    m_Value: 38.889923
+>>>>>>> Stashed changes
   m_Ortho:
     m_Target: 1
     speed: 2
