@@ -1,351 +1,33 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Packages/manifest.json
+    m_FilePath: /Users/game5/Documents/GitHub/zombie-rougelike/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638043073800000000
-    m_Hash: 115155800
+      ticks: 638064675800000000
+    m_Hash: 3482761880
   m_LockFileStatus:
-    m_FilePath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Packages/packages-lock.json
+    m_FilePath: /Users/game5/Documents/GitHub/zombie-rougelike/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638043075500000000
-    m_Hash: 871850473
+      ticks: 638064675800000000
+    m_Hash: 2108034099
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Packages
-m_EditorVersion: 2022.1.21f1 (9ac1ff5ca45b)
+m_ProjectPath: /Users/game5/Documents/GitHub/zombie-rougelike/Packages
+m_EditorVersion: 2022.1.16f1 (7321c9670bc2)
 m_ResolvedPackages:
-- packageId: com.unity.2d.sprite@1.0.0
-  testable: 0
-  isDirectDependency: 1
-  version: 1.0.0
-  source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.sprite@1.0.0
-  assetPath: Packages/com.unity.2d.sprite
-  name: com.unity.2d.sprite
-  displayName: 2D Sprite
-  author:
-    name: 
-    email: 
-    url: 
-  category: 2D
-  type: 
-  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
-    like pivot, borders and Physics shape
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 1.0.0
-    compatible:
-    - 1.0.0
-    verified: 1.0.0
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - 2d
-  - sprite
-  - sprite editor window
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 1.0.0
-    nextVersion: 
-- packageId: com.unity.2d.tilemap@1.0.0
-  testable: 0
-  isDirectDependency: 1
-  version: 1.0.0
-  source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.tilemap@1.0.0
-  assetPath: Packages/com.unity.2d.tilemap
-  name: com.unity.2d.tilemap
-  displayName: 2D Tilemap Editor
-  author:
-    name: 
-    email: 
-    url: 
-  category: 2D
-  type: 
-  description: 2D Tilemap Editor is a package that contains editor functionalities
-    for editing Tilemaps.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 1.0.0
-    compatible:
-    - 1.0.0
-    verified: 1.0.0
-  dependencies: []
-  resolvedDependencies: []
-  keywords:
-  - 2d
-  - Tilemap
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 0
-  repository:
-    type: 
-    url: 
-    revision: 
-    path: 
-  unityLifecycle:
-    version: 1.0.0
-    nextVersion: 
-- packageId: com.unity.ads@4.3.0
-  testable: 0
-  isDirectDependency: 1
-  version: 4.3.0
-  source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.ads@4.3.0
-  assetPath: Packages/com.unity.ads
-  name: com.unity.ads
-  displayName: Advertisement
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: Unity Ads is a video ad network for iOS and Android that allows you
-    to quickly and effectively monetize your games.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 0.0.3
-    - 0.0.4
-    - 0.0.5
-    - 0.0.6
-    - 0.0.7
-    - 0.0.8
-    - 0.0.10
-    - 0.0.11
-    - 0.0.12
-    - 0.0.13
-    - 0.0.14
-    - 0.0.15
-    - 0.0.16
-    - 2.0.0
-    - 2.0.3
-    - 2.0.4
-    - 2.0.7
-    - 2.0.8
-    - 2.3.1
-    - 2.3.2
-    - 3.0.1
-    - 3.0.2
-    - 3.0.3
-    - 3.1.1
-    - 3.2.0
-    - 3.3.0
-    - 3.3.1
-    - 3.4.0
-    - 3.4.1
-    - 3.4.2
-    - 3.4.4
-    - 3.4.5
-    - 3.4.7
-    - 3.4.9
-    - 3.5.0
-    - 3.5.2
-    - 3.6.1
-    - 3.7.0
-    - 3.7.1
-    - 3.7.3
-    - 3.7.5
-    - 4.0.0
-    - 4.0.1
-    - 4.1.0
-    - 4.2.1
-    - 4.3.0
-    - 4.4.1
-    compatible:
-    - 4.3.0
-    - 4.4.1
-    verified: 4.3.0
-  dependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  keywords:
-  - ads
-  - unity
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 637958905560000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/unity-ads-sdk.git
-    revision: 1bd159a363397b5d5a1aef948578c658c7c4e2a8
-    path: 
-  unityLifecycle:
-    version: 4.3.0
-    nextVersion: 
-- packageId: com.unity.analytics@3.7.1
-  testable: 0
-  isDirectDependency: 1
-  version: 3.7.1
-  source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.analytics@3.7.1
-  assetPath: Packages/com.unity.analytics
-  name: com.unity.analytics
-  displayName: Analytics Library
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: The Unity Analytics Library contains the Analytics Event Tracker component,
-    the Data Privacy plug-in, and the Standard Events API.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 0.0.3
-    - 0.0.4
-    - 0.0.5
-    - 0.0.7
-    - 0.0.8
-    - 0.0.9
-    - 0.0.10
-    - 0.0.11
-    - 0.0.12
-    - 0.0.13
-    - 0.0.14
-    - 0.0.15
-    - 0.0.16
-    - 0.0.17
-    - 0.0.19
-    - 2.0.5
-    - 2.0.11
-    - 2.0.13
-    - 2.0.14
-    - 2.0.15
-    - 2.0.16
-    - 3.0.5
-    - 3.0.9
-    - 3.1.1
-    - 3.2.0
-    - 3.2.2
-    - 3.2.3
-    - 3.3.0
-    - 3.3.2-preview
-    - 3.3.2
-    - 3.3.4
-    - 3.3.5
-    - 3.4.0
-    - 3.5.3
-    - 3.6.11
-    - 3.6.12
-    - 3.7.1
-    - 3.8.1
-    compatible:
-    - 3.7.1
-    - 3.8.1
-    verified: 3.7.1
-  dependencies:
-  - name: com.unity.services.analytics
-    version: 1.0.4
-  - name: com.unity.ugui
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.services.analytics
-    version: 4.2.0
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.services.core
-    version: 1.4.3
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
-  keywords:
-  - analytics
-  - unity
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 637732056010000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.analytics.git
-    revision: c7064489a6c87d0cf5a95a11e66180cc01905c0c
-    path: 
-  unityLifecycle:
-    version: 3.7.1
-    nextVersion: 
 - packageId: com.unity.collab-proxy@1.17.2
   testable: 0
   isDirectDependency: 1
   version: 1.17.2
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.collab-proxy@1.17.2
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.collab-proxy@1.17.2
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -359,7 +41,7 @@ m_ResolvedPackages:
     or Plastic SCM for Unity (beta) in the Unity editor. To use Plastic SCM for Unity
     (beta), a Plastic SCM subscription is required. Learn more about how you can
     get started for free by visiting plasticscm.com.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -445,7 +127,7 @@ m_ResolvedPackages:
     version: 1.0.1
   resolvedDependencies:
   - name: com.unity.services.core
-    version: 1.4.3
+    version: 1.4.2
   - name: com.unity.modules.unitywebrequest
     version: 1.0.0
   - name: com.unity.nuget.newtonsoft-json
@@ -473,7 +155,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637937432480000000
@@ -492,7 +173,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.feature.2d@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.feature.2d@1.0.0
   assetPath: Packages/com.unity.feature.2d
   name: com.unity.feature.2d
   displayName: 2D
@@ -507,7 +188,7 @@ m_ResolvedPackages:
     2D game worlds. Create frame-by-frame and bone-based animated characters. Integrated
     with 2D physics to support simulations with colliders and joints. Supports the
     needs of a range of 2D art styles, including pixel art.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -532,9 +213,9 @@ m_ResolvedPackages:
     version: default
   resolvedDependencies:
   - name: com.unity.2d.animation
-    version: 8.0.4
+    version: 8.0.3
   - name: com.unity.2d.common
-    version: 7.0.2
+    version: 7.0.1
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
@@ -552,11 +233,11 @@ m_ResolvedPackages:
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.7.4
+    version: 1.7.3
   - name: com.unity.2d.pixel-perfect
-    version: 5.0.2
+    version: 5.0.1
   - name: com.unity.2d.psdimporter
-    version: 7.0.3
+    version: 7.0.2
   - name: com.unity.2d.spriteshape
     version: 8.0.1
   - name: com.unity.modules.physics2d
@@ -577,7 +258,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -596,7 +276,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.15
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.ide.rider@3.0.15
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.ide.rider@3.0.15
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -609,7 +289,7 @@ m_ResolvedPackages:
   description: The JetBrains Rider Editor package provides an integration for using
     the JetBrains Rider IDE as a code editor for Unity. It adds support for generating
     .csproj files for code completion and auto-discovery of installations.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -645,10 +325,12 @@ m_ResolvedPackages:
     - 3.0.14
     - 3.0.15
     - 3.0.16
+    - 3.0.17
     compatible:
     - 3.0.15
     - 3.0.16
-    verified: 3.0.16
+    - 3.0.17
+    verified: 3.0.17
   dependencies:
   - name: com.unity.ext.nunit
     version: 1.0.6
@@ -663,7 +345,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637914298700000000
@@ -682,7 +363,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.16
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.ide.visualstudio@2.0.16
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.ide.visualstudio@2.0.16
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -695,7 +376,7 @@ m_ResolvedPackages:
   description: Code editor integration for supporting Visual Studio as code editor
     for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -718,9 +399,11 @@ m_ResolvedPackages:
     - 2.0.14
     - 2.0.15
     - 2.0.16
+    - 2.0.17
     compatible:
     - 2.0.16
-    verified: 2.0.16
+    - 2.0.17
+    verified: 2.0.17
   dependencies:
   - name: com.unity.test-framework
     version: 1.1.9
@@ -741,7 +424,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637914298680000000
@@ -760,7 +442,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.ide.vscode@1.2.5
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -769,11 +451,11 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: 
   description: Code editor integration for supporting Visual Studio Code as code
     editor for unity. Adds support for generating csproj files for intellisense purposes,
     auto discovery of installations, etc.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -803,8 +485,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637800255360000000
   documentationUrl: 
@@ -817,168 +498,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.5
     nextVersion: 
-- packageId: com.unity.purchasing@4.4.1
-  testable: 0
-  isDirectDependency: 1
-  version: 4.4.1
-  source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.purchasing@4.4.1
-  assetPath: Packages/com.unity.purchasing
-  name: com.unity.purchasing
-  displayName: In App Purchasing
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: "IMPORTANT UPGRADE NOTES:\n\nIf updating from Unity IAP (com.unity.purchasing
-    + the Asset Store plugin) versions 2.x to version 3.x, complete the following
-    actions in order to resolve compilation errors:\n 1. Move IAPProductCatalog.json
-    and BillingMode.json\n\tFROM: Assets/Plugins/UnityPurchasing/Resources/\n\tTO:
-    Assets/Resources/.\n 2. Move AppleTangle.cs and GooglePlayTangle.cs\n\tFROM:
-    Assets/Plugins/UnityPurchasing/generated\n\tTO: Assets/Scripts/UnityPurchasing/generated.\n
-    3. Remove all remaining Asset Store plugin folders and files in Assets/Plugins/UnityPurchasing
-    from your project.\n\nPACKAGE DESCRIPTION:\n\nWith Unity IAP, setting up in-app
-    purchases for your game across multiple app stores has never been easier.\n\nThis
-    package provides:\n\n \u25AA One common API to access all stores for free so
-    you can fully understand and optimize your in-game economy\n \u25AA Automatic
-    coupling with Unity Analytics to enable monitoring and decision-making based
-    on trends in your revenue and purchase data across multiple platforms\n \u25AA
-    Support for iOS, Mac, tvOS, Google Play, Windows, and Amazon app stores(*).\n
-    \u25AA Support to work with the Unity Distribution Portal to synchronize catalogs
-    and transactions with other app stores\n \u25AA Client-side receipt validation
-    for Apple App Store and Google Play\n\nAfter installing this package, open the
-    Services Window to enable In-App Purchasing to use these features."
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 0.0.3
-    - 0.0.4
-    - 0.0.5
-    - 0.0.6
-    - 0.0.7
-    - 0.0.8
-    - 0.0.9
-    - 0.0.10
-    - 0.0.11
-    - 0.0.12
-    - 0.0.13
-    - 0.0.14
-    - 0.0.15
-    - 0.0.16
-    - 0.0.17
-    - 0.0.18
-    - 0.0.19
-    - 2.0.0
-    - 2.0.1
-    - 2.0.3
-    - 2.0.5
-    - 2.0.6
-    - 2.1.0
-    - 2.1.1
-    - 2.2.0
-    - 2.2.1
-    - 2.2.2
-    - 3.0.0-pre.3
-    - 3.0.0-pre.4
-    - 3.0.0-pre.5
-    - 3.0.0-pre.6
-    - 3.0.1
-    - 3.0.2
-    - 3.1.0
-    - 3.2.1
-    - 3.2.2
-    - 3.2.3
-    - 4.0.0
-    - 4.0.3
-    - 4.1.0
-    - 4.1.1
-    - 4.1.2
-    - 4.1.3
-    - 4.1.4
-    - 4.1.5
-    - 4.2.0-pre.1
-    - 4.2.0-pre.2
-    - 4.2.1
-    - 4.3.0
-    - 4.4.0
-    - 4.4.1
-    - 4.5.0
-    - 4.5.1
-    compatible:
-    - 4.4.1
-    - 4.5.0
-    - 4.5.1
-    verified: 4.4.1
-  dependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.unityanalytics
-    version: 1.0.0
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
-  - name: com.unity.services.core
-    version: 1.3.1
-  - name: com.unity.services.analytics
-    version: 4.0.1
-  resolvedDependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.modules.unityanalytics
-    version: 1.0.0
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
-  - name: com.unity.services.core
-    version: 1.4.3
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  - name: com.unity.services.analytics
-    version: 4.2.0
-  keywords:
-  - purchasing
-  - iap
-  - unity
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 637967563500000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.purchasing.git
-    revision: 9dba5d5eda45d5841b3bcb9fadeba1b2ed5ef45b
-    path: 
-  unityLifecycle:
-    version: 4.4.1
-    nextVersion: 
 - packageId: com.unity.test-framework@1.1.33
   testable: 0
   isDirectDependency: 1
   version: 1.1.33
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.test-framework@1.1.33
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.test-framework@1.1.33
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -989,7 +514,7 @@ m_ResolvedPackages:
   category: Unity Test Framework
   type: asset
   description: Test framework for running Edit mode and Play mode tests in Unity.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -1028,6 +553,8 @@ m_ResolvedPackages:
     - 1.1.31
     - 1.1.33
     - 1.3.0
+    - 1.3.1
+    - 1.3.2
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -1035,6 +562,8 @@ m_ResolvedPackages:
     compatible:
     - 1.1.33
     - 1.3.0
+    - 1.3.1
+    - 1.3.2
     - 2.0.1-exp.1
     - 2.0.1-exp.2
     - 2.0.1-pre.12
@@ -1064,7 +593,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637938212700000000
@@ -1083,7 +611,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.textmeshpro@3.0.6
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -1092,7 +620,7 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Text Rendering
-  type: asset
+  type: 
   description: 'TextMeshPro is the ultimate text solution for Unity. It''s the perfect
     replacement for Unity''s UI Text and the legacy Text Mesh.
 
@@ -1113,7 +641,7 @@ m_ResolvedPackages:
     Great performance. Since the geometry created by TextMeshPro
     uses two triangles per character just like Unity''s text components, this improved
     visual quality and flexibility comes at no additional performance cost.'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -1231,8 +759,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637547111200000000
   documentationUrl: 
@@ -1250,7 +777,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.1
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.timeline@1.7.1
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.timeline@1.7.1
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -1262,7 +789,7 @@ m_ResolvedPackages:
   type: asset
   description: Use Unity Timeline to create cinematic content, game-play sequences,
     audio sequences, and complex particle effects.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -1376,7 +903,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637824211470000000
@@ -1395,7 +921,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.ugui@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -1409,7 +935,7 @@ m_ResolvedPackages:
     and applications. It is a GameObject-based UI system that uses Components and
     the Game View to arrange, position, and style user interfaces. \u200B You cannot
     use Unity UI to create or change user interfaces in the Unity Editor."
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -1439,7 +965,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -1458,7 +983,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.8
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.visualscripting@1.7.8
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.visualscripting@1.7.8
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -1480,7 +1005,7 @@ m_ResolvedPackages:
 
     Visual scripting is compatible with third-party
     APIs, including most packages, assets and custom libraries.'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -1500,9 +1025,11 @@ m_ResolvedPackages:
     - 1.7.7
     - 1.7.8
     - 1.8.0-pre.1
+    - 1.8.0
     compatible:
     - 1.7.8
     - 1.8.0-pre.1
+    - 1.8.0
     verified: 1.7.8
   dependencies:
   - name: com.unity.ugui
@@ -1526,7 +1053,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637878097330000000
@@ -1540,108 +1066,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.7.8
     nextVersion: 
-- packageId: com.unity.xr.legacyinputhelpers@2.1.10
-  testable: 0
-  isDirectDependency: 1
-  version: 2.1.10
-  source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.xr.legacyinputhelpers@2.1.10
-  assetPath: Packages/com.unity.xr.legacyinputhelpers
-  name: com.unity.xr.legacyinputhelpers
-  displayName: XR Legacy Input Helpers
-  author:
-    name: 
-    email: 
-    url: 
-  category: XR
-  type: asset
-  description: This package includes the tracked pose driver for the legacy input
-    system, the XR Bindings Seeding Tool and 3Dof Arm Model support for the Tracked
-    Pose Driver. The Tracked Pose Driver is a behavior that enables GameObjects to
-    track input devices, the XR Bindings Seeding Tool adds a menu item under the
-    'Assets' menu which populates the Input Asset with Unity's crossplatform Input
-    Bindings
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 1.0.0
-    - 1.0.2
-    - 1.0.3
-    - 1.3.1
-    - 1.3.2
-    - 1.3.4
-    - 1.3.5
-    - 1.3.6
-    - 1.3.7
-    - 1.3.8
-    - 1.3.11
-    - 2.0.1
-    - 2.0.2
-    - 2.0.4
-    - 2.0.6
-    - 2.0.8
-    - 2.1.1
-    - 2.1.2
-    - 2.1.3
-    - 2.1.4
-    - 2.1.6
-    - 2.1.7
-    - 2.1.8
-    - 2.1.9
-    - 2.1.10
-    compatible:
-    - 2.1.10
-    verified: 2.1.10
-  dependencies:
-  - name: com.unity.modules.vr
-    version: 1.0.0
-  - name: com.unity.modules.xr
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.vr
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  - name: com.unity.modules.physics
-    version: 1.0.0
-  - name: com.unity.modules.xr
-    version: 1.0.0
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  keywords:
-  - TPD
-  - Tracked Pose Driver
-  - XR
-  - Input
-  - Helpers
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 637958908030000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.xr.legacyinputhelpers.git
-    revision: 465ee12451634ea2b2986d54f6ae8be37316772a
-    path: 
-  unityLifecycle:
-    version: 2.1.10
-    nextVersion: 
 - packageId: com.unity.modules.ai@1.0.0
   testable: 0
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.ai@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1653,7 +1083,7 @@ m_ResolvedPackages:
   type: module
   description: 'The AI module implements the path finding features in Unity. Scripting
     API: https://docs.unity3d.com/ScriptReference/UnityEngine.AIModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -1671,7 +1101,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -1690,7 +1119,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.androidjni@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1701,7 +1130,7 @@ m_ResolvedPackages:
   category: 
   type: module
   description: 'AndroidJNI module allows you to call Java code. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.AndroidJNIModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -1719,7 +1148,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -1738,7 +1166,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.animation@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1750,7 +1178,7 @@ m_ResolvedPackages:
   type: module
   description: 'The Animation module implements Unity''s animation system. Scripting
     API: https://docs.unity3d.com/ScriptReference/UnityEngine.AnimationModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -1768,7 +1196,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -1787,7 +1214,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1799,7 +1226,7 @@ m_ResolvedPackages:
   type: module
   description: 'The AssetBundle module implements the AssetBundle class and related
     APIs to load data from AssetBundles. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.AssetBundleModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -1817,7 +1244,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -1836,7 +1262,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.audio@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1848,7 +1274,7 @@ m_ResolvedPackages:
   type: module
   description: 'The Audio module implements Unity''s audio system. Scripting API:
     https://docs.unity3d.com/ScriptReference/UnityEngine.AudioModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -1866,7 +1292,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -1885,7 +1310,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.cloth@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1897,7 +1322,7 @@ m_ResolvedPackages:
   type: module
   description: 'The Cloth module implements cloth physics simulation through the
     Cloth component. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ClothModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -1919,7 +1344,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -1938,7 +1362,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.director@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1950,7 +1374,7 @@ m_ResolvedPackages:
   type: module
   description: 'The Director module implements the PlayableDirector class. Scripting
     API: https://docs.unity3d.com/ScriptReference/UnityEngine.DirectorModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -1976,7 +1400,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -1995,7 +1418,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -2008,7 +1431,7 @@ m_ResolvedPackages:
   description: 'The ImageConversion module implements the ImageConversion class which
     provides helper methods to convert images from and to PNG, JPEG or EXR formats.
     Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ImageConversionModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2026,7 +1449,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2045,7 +1467,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.imgui@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -2057,7 +1479,7 @@ m_ResolvedPackages:
   type: module
   description: 'The IMGUI module provides Unity''s immediate mode GUI solution for
     creating in-game and editor user interfaces. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.IMGUIModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2075,7 +1497,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2094,7 +1515,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -2106,7 +1527,7 @@ m_ResolvedPackages:
   type: module
   description: 'The JSONSerialize module provides the JsonUtility class which lets
     you serialize Unity Objects to JSON format. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.JSONSerializeModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2124,7 +1545,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2143,7 +1563,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -2155,7 +1575,7 @@ m_ResolvedPackages:
   type: module
   description: 'The ParticleSystem module implements Unity''s Particle System. Scripting
     API: https://docs.unity3d.com/ScriptReference/UnityEngine.ParticleSystemModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2173,7 +1593,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2192,7 +1611,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.physics@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -2204,7 +1623,7 @@ m_ResolvedPackages:
   type: module
   description: 'The Physics module implements 3D physics in Unity. Scripting API:
     https://docs.unity3d.com/ScriptReference/UnityEngine.PhysicsModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2222,7 +1641,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2241,7 +1659,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.physics2d@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -2253,7 +1671,7 @@ m_ResolvedPackages:
   type: module
   description: 'The Physics2d module implements 2D physics in Unity. Scripting API:
     https://docs.unity3d.com/ScriptReference/UnityEngine.Physics2DModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2271,7 +1689,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2290,7 +1707,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.screencapture@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -2302,7 +1719,7 @@ m_ResolvedPackages:
   type: module
   description: 'The ScreenCapture module provides functionality to take screen shots
     using the ScreenCapture class. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.ScreenCaptureModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2324,7 +1741,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2343,7 +1759,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.terrain@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -2355,7 +1771,7 @@ m_ResolvedPackages:
   type: module
   description: 'The Terrain module implements Unity''s Terrain rendering engine available
     through the Terrain component. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.TerrainModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2373,7 +1789,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2392,7 +1807,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -2404,7 +1819,7 @@ m_ResolvedPackages:
   type: module
   description: 'The TerrainPhysics module connects the Terrain and Physics modules
     by implementing the TerrainCollider component. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.TerrainPhysicsModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2430,7 +1845,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2449,7 +1863,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.tilemap@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -2460,7 +1874,7 @@ m_ResolvedPackages:
   category: 
   type: module
   description: 'The Tilemap module implements the Tilemap class. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.TilemapModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2482,7 +1896,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2501,7 +1914,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.ui@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -2513,7 +1926,7 @@ m_ResolvedPackages:
   type: module
   description: 'The UI module implements basic components required for Unity''s UI
     system Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UIModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2531,7 +1944,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2550,7 +1962,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.uielements@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -2562,7 +1974,7 @@ m_ResolvedPackages:
   type: module
   description: 'The UIElements module implements the UIElements retained mode UI
     framework. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UIElementsModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2596,7 +2008,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2615,7 +2026,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.umbra@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2627,7 +2038,7 @@ m_ResolvedPackages:
   type: module
   description: 'The Umbra module implements Unity''s occlusion culling system. Scripting
     API: https://docs.unity3d.com/ScriptReference/UnityEngine.UmbraModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2645,7 +2056,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2664,7 +2074,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2676,7 +2086,7 @@ m_ResolvedPackages:
   type: module
   description: 'The UnityAnalytics module implements APIs required to use Unity Analytics.
     Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UnityAnalyticsModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2702,7 +2112,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2721,7 +2130,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2733,7 +2142,7 @@ m_ResolvedPackages:
   type: module
   description: 'The UnityWebRequest module lets you communicate with http services.
     Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UnityWebRequestModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2751,7 +2160,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2770,7 +2178,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2782,7 +2190,7 @@ m_ResolvedPackages:
   type: module
   description: 'The UnityWebRequestAssetBundle module provides the DownloadHandlerAssetBundle
     class to use UnityWebRequest to download Asset Bundles. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UnityWebRequestAssetBundleModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2808,7 +2216,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2827,7 +2234,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2839,7 +2246,7 @@ m_ResolvedPackages:
   type: module
   description: 'The UnityWebRequestAudio module provides the DownloadHandlerAudioClip
     class to use UnityWebRequest to download AudioClips. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UnityWebRequestAudioModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2865,7 +2272,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2884,7 +2290,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2896,7 +2302,7 @@ m_ResolvedPackages:
   type: module
   description: 'The UnityWebRequestTexture module provides the DownloadHandlerTexture
     class to use UnityWebRequest to download Textures. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UnityWebRequestTextureModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2922,7 +2328,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -2941,7 +2346,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2953,7 +2358,7 @@ m_ResolvedPackages:
   type: module
   description: 'The UnityWebRequestWWW module implements the legacy WWW lets you
     communicate with http services. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.UnityWebRequestWWWModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -2995,7 +2400,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -3014,7 +2418,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.vehicles@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -3026,7 +2430,7 @@ m_ResolvedPackages:
   type: module
   description: 'The Vehicles module implements vehicle physics simulation through
     the WheelCollider component. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.VehiclesModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -3048,7 +2452,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -3067,7 +2470,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.video@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -3079,7 +2482,7 @@ m_ResolvedPackages:
   type: module
   description: 'The Video module lets you play back video files in your content.
     Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.VideoModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -3109,7 +2512,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -3128,7 +2530,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.vr@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -3140,7 +2542,7 @@ m_ResolvedPackages:
   type: module
   description: 'The VR module implements support for virtual reality devices in Unity.
     Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.VRModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -3172,7 +2574,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -3191,7 +2592,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.wind@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -3203,7 +2604,7 @@ m_ResolvedPackages:
   type: module
   description: 'The Wind module implements the WindZone component which can affect
     terrain rendering and particle simulations. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.WindModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -3221,7 +2622,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -3240,7 +2640,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.xr@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -3252,7 +2652,7 @@ m_ResolvedPackages:
   type: module
   description: 'The XR module contains the VR and AR related platform support functionality.
     Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.XRModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -3282,7 +2682,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -3301,7 +2700,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.subsystems@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -3313,7 +2712,7 @@ m_ResolvedPackages:
   type: module
   description: 'The Subsystem module contains the definitions and runtime support
     for general subsystems in Unity. Scripting API: https://docs.unity3d.com/ScriptReference/UnityEngine.SubsystemsModule.html'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -3335,7 +2734,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -3354,7 +2752,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.uielementsnative@1.0.0
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.modules.uielementsnative@1.0.0
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
   displayName: UIElements Native
@@ -3365,7 +2763,7 @@ m_ResolvedPackages:
   category: 
   type: module
   description: 
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -3395,7 +2793,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 0
@@ -3414,7 +2811,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.ext.nunit@1.0.6
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -3423,10 +2820,10 @@ m_ResolvedPackages:
     email: 
     url: 
   category: Libraries
-  type: asset
+  type: 
   description: Custom version of the nunit package build to work with Unity. Used
     by the Unity Test Framework.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -3456,8 +2853,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637429759280000000
   documentationUrl: 
@@ -3470,179 +2866,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.6
     nextVersion: 
-- packageId: com.unity.services.core@1.4.3
+- packageId: com.unity.2d.animation@8.0.3
   testable: 0
   isDirectDependency: 0
-  version: 1.4.3
+  version: 8.0.3
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.services.core@1.4.3
-  assetPath: Packages/com.unity.services.core
-  name: com.unity.services.core
-  displayName: Services Core
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: 'This package defines common components used by multiple Game Service
-    packages.
-
-    These are standardized and aim to unify the overall experience
-    of working with Game Services SDK.'
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 1.0.1
-    - 1.1.0-pre.7
-    - 1.1.0-pre.8
-    - 1.1.0-pre.9
-    - 1.1.0-pre.10
-    - 1.1.0-pre.11
-    - 1.1.0-pre.41
-    - 1.1.0-pre.69
-    - 1.2.0
-    - 1.3.1
-    - 1.3.2
-    - 1.4.0
-    - 1.4.1
-    - 1.4.2
-    - 1.4.3
-    - 1.5.2
-    - 1.6.0
-    compatible:
-    - 1.4.3
-    - 1.5.2
-    - 1.6.0
-    verified: 1.4.3
-  dependencies:
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 637959096350000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 145c9bbe93bde4784d4641e172be4ca40a3745fc
-    path: 
-  unityLifecycle:
-    version: 1.4.3
-    nextVersion: 
-- packageId: com.unity.services.analytics@4.2.0
-  testable: 0
-  isDirectDependency: 0
-  version: 4.2.0
-  source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.services.analytics@4.2.0
-  assetPath: Packages/com.unity.services.analytics
-  name: com.unity.services.analytics
-  displayName: Analytics
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: asset
-  description: The Unity Analytics package automatically collects core events and
-    user properties when someone uses your game or application, and enables you to
-    track specific in-game actions your user performs by defining custom events.
-    The data collected from this package is surfaced in the Unity dashboard where
-    you can use it to gather user insights, segment your player base and make informed
-    decisions around the optimization of your game.
-  status: 0
-  errors: []
-  versions:
-    all:
-    - 1.0.3
-    - 1.0.4
-    - 1.0.5
-    - 2.0.7-pre.4
-    - 2.0.7-pre.6
-    - 2.0.7-pre.7
-    - 3.0.0-pre.2
-    - 3.0.0-pre.3
-    - 3.0.0-pre.4
-    - 4.0.0-pre.2
-    - 4.0.0-pre.3
-    - 4.0.0
-    - 4.0.1
-    - 4.1.0
-    - 4.2.0
-    compatible:
-    - 4.2.0
-    verified: 4.2.0
-  dependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.services.core
-    version: 1.4.0
-  resolvedDependencies:
-  - name: com.unity.ugui
-    version: 1.0.0
-  - name: com.unity.modules.ui
-    version: 1.0.0
-  - name: com.unity.modules.imgui
-    version: 1.0.0
-  - name: com.unity.services.core
-    version: 1.4.3
-  - name: com.unity.modules.unitywebrequest
-    version: 1.0.0
-  - name: com.unity.nuget.newtonsoft-json
-    version: 3.0.2
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
-  keywords: []
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-    configSource: 0
-  hideInEditor: 0
-  isAssetStorePackage: 0
-  datePublishedTicks: 637970128630000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
-    revision: 40445d94118e139ce5bff46afdeb574502a2e3c9
-    path: 
-  unityLifecycle:
-    version: 4.2.0
-    nextVersion: 
-- packageId: com.unity.2d.animation@8.0.4
-  testable: 0
-  isDirectDependency: 0
-  version: 8.0.4
-  source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.animation@8.0.4
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.animation@8.0.3
   assetPath: Packages/com.unity.2d.animation
   name: com.unity.2d.animation
   displayName: 2D Animation
@@ -3654,7 +2883,7 @@ m_ResolvedPackages:
   type: asset
   description: 2D Animation provides all the necessary tooling and runtime components
     for skeletal animation using Sprites.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -3763,13 +2992,15 @@ m_ResolvedPackages:
     - 9.0.0
     - 9.0.1
     - 10.0.0-pre.1
+    - 10.0.0-pre.2
     compatible:
+    - 8.0.3
     - 8.0.4
     - 8.0.5
     verified: 8.0.5
   dependencies:
   - name: com.unity.2d.common
-    version: 7.0.2
+    version: 7.0.1
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.modules.animation
@@ -3778,7 +3009,7 @@ m_ResolvedPackages:
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.2d.common
-    version: 7.0.2
+    version: 7.0.1
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
@@ -3796,7 +3027,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.7.4
+    version: 1.7.3
   keywords:
   - 2d
   - animation
@@ -3807,26 +3038,25 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638009915550000000
+  datePublishedTicks: 637961472830000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 2987975c31dcc078462164ccaa04da9d618ab738
+    revision: 6efabf98e011c774ea92b1bdece8b2339dba79fd
     path: 
   unityLifecycle:
-    version: 8.0.4
+    version: 8.0.3
     nextVersion: 
-- packageId: com.unity.2d.pixel-perfect@5.0.2
+- packageId: com.unity.2d.pixel-perfect@5.0.1
   testable: 0
   isDirectDependency: 0
-  version: 5.0.2
+  version: 5.0.1
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.pixel-perfect@5.0.2
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.pixel-perfect@5.0.1
   assetPath: Packages/com.unity.2d.pixel-perfect
   name: com.unity.2d.pixel-perfect
   displayName: 2D Pixel Perfect
@@ -3846,7 +3076,7 @@ m_ResolvedPackages:
     the user. The user can adjust the definition of the pixel art rendered within
     the camera viewport through the component settings, as well preview any changes
     immediately in Game view by using the Run in Edit Mode feature.'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -3868,6 +3098,7 @@ m_ResolvedPackages:
     - 5.0.2
     - 5.0.3
     compatible:
+    - 5.0.1
     - 5.0.2
     - 5.0.3
     verified: 5.0.3
@@ -3885,26 +3116,25 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637977148500000000
+  datePublishedTicks: 637637493430000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: bc53d04adcc860159dcd9355c8e721a5124b1a35
+    revision: 404f29a83b5666c45c2386a031f1f653fc6fd00d
     path: 
   unityLifecycle:
-    version: 5.0.2
+    version: 5.0.1
     nextVersion: 
-- packageId: com.unity.2d.psdimporter@7.0.3
+- packageId: com.unity.2d.psdimporter@7.0.2
   testable: 0
   isDirectDependency: 0
-  version: 7.0.3
+  version: 7.0.2
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.psdimporter@7.0.3
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.psdimporter@7.0.2
   assetPath: Packages/com.unity.2d.psdimporter
   name: com.unity.2d.psdimporter
   displayName: 2D PSD Importer
@@ -3917,7 +3147,7 @@ m_ResolvedPackages:
   description: A ScriptedImporter for importing Adobe Photoshop PSB (Photoshop Big)
     file format. The ScriptedImporter is currently targeted for users who wants to
     create multi Sprite character animation using Unity 2D Animation Package.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -3988,21 +3218,23 @@ m_ResolvedPackages:
     - 8.0.0
     - 8.0.1
     - 9.0.0-pre.1
+    - 9.0.0-pre.2
     compatible:
+    - 7.0.2
     - 7.0.3
     verified: 7.0.3
   dependencies:
   - name: com.unity.2d.animation
-    version: 8.0.4
+    version: 8.0.3
   - name: com.unity.2d.common
-    version: 7.0.2
+    version: 7.0.1
   - name: com.unity.2d.sprite
     version: 1.0.0
   resolvedDependencies:
   - name: com.unity.2d.animation
-    version: 8.0.4
+    version: 8.0.3
   - name: com.unity.2d.common
-    version: 7.0.2
+    version: 7.0.1
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.mathematics
@@ -4020,7 +3252,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.7.4
+    version: 1.7.3
   keywords:
   - 2d
   - psdimporter
@@ -4032,26 +3264,76 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638009915590000000
+  datePublishedTicks: 637961472870000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 2987975c31dcc078462164ccaa04da9d618ab738
+    revision: a6e7a338cb041acdfac2a45c68b95cdd9d84e384
     path: 
   unityLifecycle:
-    version: 7.0.3
+    version: 7.0.2
+    nextVersion: 
+- packageId: com.unity.2d.sprite@1.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.0
+  source: 2
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.sprite@1.0.0
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
     nextVersion: 
 - packageId: com.unity.2d.spriteshape@8.0.1
   testable: 0
   isDirectDependency: 0
   version: 8.0.1
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.spriteshape@8.0.1
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.spriteshape@8.0.1
   assetPath: Packages/com.unity.2d.spriteshape
   name: com.unity.2d.spriteshape
   displayName: 2D SpriteShape
@@ -4064,7 +3346,7 @@ m_ResolvedPackages:
   description: SpriteShape Runtime & Editor Package contains the tooling and the
     runtime component that allows you to create very organic looking spline based
     2D worlds. It comes with intuitive configurator and a highly performant renderer.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -4144,6 +3426,7 @@ m_ResolvedPackages:
     - 9.0.0
     - 9.0.1
     - 10.0.0-pre.1
+    - 10.0.0-pre.2
     compatible:
     - 8.0.1
     verified: 8.0.1
@@ -4158,7 +3441,7 @@ m_ResolvedPackages:
   - name: com.unity.mathematics
     version: 1.2.6
   - name: com.unity.2d.common
-    version: 7.0.2
+    version: 7.0.1
   - name: com.unity.2d.sprite
     version: 1.0.0
   - name: com.unity.modules.uielements
@@ -4174,7 +3457,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.7.4
+    version: 1.7.3
   - name: com.unity.modules.physics2d
     version: 1.0.0
   keywords:
@@ -4191,7 +3474,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637961472910000000
@@ -4205,12 +3487,62 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 8.0.1
     nextVersion: 
+- packageId: com.unity.2d.tilemap@1.0.0
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.0
+  source: 2
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.tilemap@1.0.0
+  assetPath: Packages/com.unity.2d.tilemap
+  name: com.unity.2d.tilemap
+  displayName: 2D Tilemap Editor
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: 2D Tilemap Editor is a package that contains editor functionalities
+    for editing Tilemaps.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - Tilemap
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
 - packageId: com.unity.2d.tilemap.extras@3.0.2
   testable: 0
   isDirectDependency: 0
   version: 3.0.2
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.tilemap.extras@3.0.2
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.tilemap.extras@3.0.2
   assetPath: Packages/com.unity.2d.tilemap.extras
   name: com.unity.2d.tilemap.extras
   displayName: 2D Tilemap Extras
@@ -4235,7 +3567,7 @@ m_ResolvedPackages:
 
     Other: Grid Information, Custom Rules
     for Rule Tile'
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -4250,6 +3582,7 @@ m_ResolvedPackages:
     - 1.8.1-preview
     - 1.8.2-preview
     - 1.8.3-preview
+    - 1.8.4-preview
     - 2.0.0-pre.1
     - 2.0.0-pre.2
     - 2.0.0
@@ -4261,6 +3594,7 @@ m_ResolvedPackages:
     - 3.0.1
     - 3.0.2
     - 4.0.0-pre.1
+    - 4.0.0-pre.2
     compatible:
     - 3.0.2
     verified: 3.0.2
@@ -4297,7 +3631,6 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
   datePublishedTicks: 637865592570000000
@@ -4311,53 +3644,69 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 3.0.2
     nextVersion: 
-- packageId: com.unity.nuget.newtonsoft-json@3.0.2
+- packageId: com.unity.services.core@1.4.2
   testable: 0
   isDirectDependency: 0
-  version: 3.0.2
+  version: 1.4.2
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2
-  assetPath: Packages/com.unity.nuget.newtonsoft-json
-  name: com.unity.nuget.newtonsoft-json
-  displayName: Newtonsoft Json
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.services.core@1.4.2
+  assetPath: Packages/com.unity.services.core
+  name: com.unity.services.core
+  displayName: Services Core
   author:
     name: 
     email: 
     url: 
   category: 
-  type: library
-  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
-    synced to version 13.0.1.
+  type: asset
+  description: 'This package defines common components used by multiple Game Service
+    packages.
 
-
-    This package is used for advanced json serialization
-    and deserialization. Most Unity users will be better suited using the existing
-    json tools built into Unity.
-
-    To avoid assembly clashes, please use this
-    package if you intend to use Newtonsoft Json.'
-  status: 0
+    These are standardized and aim to unify the overall experience
+    of working with Game Services SDK.'
+  status: 4
   errors: []
   versions:
     all:
-    - 1.0.0-preview.2
-    - 1.0.0-preview.3
-    - 1.0.0-preview.4
-    - 1.0.1-preview.1
-    - 1.1.2
-    - 2.0.0-preview
-    - 2.0.0-preview.1
-    - 2.0.0-preview.2
-    - 2.0.0
-    - 2.0.1-preview.1
-    - 2.0.2
-    - 3.0.1
-    - 3.0.2
+    - 1.0.1
+    - 1.1.0-pre.7
+    - 1.1.0-pre.8
+    - 1.1.0-pre.9
+    - 1.1.0-pre.10
+    - 1.1.0-pre.11
+    - 1.1.0-pre.41
+    - 1.1.0-pre.69
+    - 1.2.0
+    - 1.3.1
+    - 1.3.2
+    - 1.4.0
+    - 1.4.1
+    - 1.4.2
+    - 1.4.3
+    - 1.5.2
+    - 1.6.0
+    - 1.7.0
     compatible:
-    - 3.0.2
-    verified: 3.0.2
-  dependencies: []
-  resolvedDependencies: []
+    - 1.4.2
+    - 1.4.3
+    - 1.5.2
+    - 1.6.0
+    - 1.7.0
+    verified: 1.4.3
+  dependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.nuget.newtonsoft-json
+    version: 3.0.2
+  - name: com.unity.modules.androidjni
+    version: 1.0.0
   keywords: []
   registry:
     id: main
@@ -4366,26 +3715,25 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
-  hideInEditor: 1
+  hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637846828220000000
+  datePublishedTicks: 637919618520000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
-    revision: 8f66870a71ad3f2cdd46330b5c482dfd138ffc64
+    url: https://github.cds.internal.unity3d.com/unity/operate-services-sdk.git
+    revision: 3964d1641ebec474aa425853985bccbdb89c2a49
     path: 
   unityLifecycle:
-    version: 3.0.2
+    version: 1.4.2
     nextVersion: 
 - packageId: com.unity.mathematics@1.2.6
   testable: 0
   isDirectDependency: 0
   version: 1.2.6
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.mathematics@1.2.6
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.mathematics@1.2.6
   assetPath: Packages/com.unity.mathematics
   name: com.unity.mathematics
   displayName: Mathematics
@@ -4394,10 +3742,10 @@ m_ResolvedPackages:
     email: 
     url: 
   category: 
-  type: asset
+  type: 
   description: Unity's C# SIMD math library providing vector types and math functions
     with a shader like syntax.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -4432,8 +3780,7 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
-  hideInEditor: 0
+  hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637841876140000000
   documentationUrl: 
@@ -4446,12 +3793,12 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.2.6
     nextVersion: 
-- packageId: com.unity.2d.common@7.0.2
+- packageId: com.unity.2d.common@7.0.1
   testable: 0
   isDirectDependency: 0
-  version: 7.0.2
+  version: 7.0.1
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.common@7.0.2
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.2d.common@7.0.1
   assetPath: Packages/com.unity.2d.common
   name: com.unity.2d.common
   displayName: 2D Common
@@ -4463,7 +3810,7 @@ m_ResolvedPackages:
   type: asset
   description: 2D Common is a package that contains shared functionalities that are
     used by most of the other 2D packages.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -4513,7 +3860,9 @@ m_ResolvedPackages:
     - 8.0.0
     - 8.0.1
     - 9.0.0-pre.1
+    - 9.0.0-pre.2
     compatible:
+    - 7.0.1
     - 7.0.2
     - 7.0.3
     verified: 7.0.3
@@ -4546,7 +3895,7 @@ m_ResolvedPackages:
   - name: com.unity.modules.animation
     version: 1.0.0
   - name: com.unity.burst
-    version: 1.7.4
+    version: 1.7.3
   keywords:
   - 2d
   registry:
@@ -4556,26 +3905,93 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 638009915420000000
+  datePublishedTicks: 637961472770000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/2d.git
-    revision: 2987975c31dcc078462164ccaa04da9d618ab738
+    revision: 6efabf98e011c774ea92b1bdece8b2339dba79fd
     path: 
   unityLifecycle:
-    version: 7.0.2
+    version: 7.0.1
     nextVersion: 
-- packageId: com.unity.burst@1.7.4
+- packageId: com.unity.nuget.newtonsoft-json@3.0.2
   testable: 0
   isDirectDependency: 0
-  version: 1.7.4
+  version: 3.0.2
   source: 1
-  resolvedPath: /Users/game5-10/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.burst@1.7.4
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2
+  assetPath: Packages/com.unity.nuget.newtonsoft-json
+  name: com.unity.nuget.newtonsoft-json
+  displayName: Newtonsoft Json
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: library
+  description: 'Newtonsoft Json for use in Unity projects and Unity packages. Currently
+    synced to version 13.0.1.
+
+
+    This package is used for advanced json serialization
+    and deserialization. Most Unity users will be better suited using the existing
+    json tools built into Unity.
+
+    To avoid assembly clashes, please use this
+    package if you intend to use Newtonsoft Json.'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0-preview.2
+    - 1.0.0-preview.3
+    - 1.0.0-preview.4
+    - 1.0.1-preview.1
+    - 1.1.2
+    - 2.0.0-preview
+    - 2.0.0-preview.1
+    - 2.0.0-preview.2
+    - 2.0.0
+    - 2.0.1-preview.1
+    - 2.0.2
+    - 3.0.1
+    - 3.0.2
+    compatible:
+    - 3.0.2
+    verified: 3.0.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637846828220000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.nuget.newtonsoft-json.git
+    revision: 8f66870a71ad3f2cdd46330b5c482dfd138ffc64
+    path: 
+  unityLifecycle:
+    version: 3.0.2
+    nextVersion: 
+- packageId: com.unity.burst@1.7.3
+  testable: 0
+  isDirectDependency: 0
+  version: 1.7.3
+  source: 1
+  resolvedPath: /Users/game5/Documents/GitHub/zombie-rougelike/Library/PackageCache/com.unity.burst@1.7.3
   assetPath: Packages/com.unity.burst
   name: com.unity.burst
   displayName: Burst
@@ -4587,7 +4003,7 @@ m_ResolvedPackages:
   type: asset
   description: Burst is a compiler that translates from IL/.NET bytecode to highly
     optimized native code using LLVM.
-  status: 0
+  status: 4
   errors: []
   versions:
     all:
@@ -4709,12 +4125,15 @@ m_ResolvedPackages:
     - 1.8.0-pre.2
     - 1.8.0
     - 1.8.1
+    - 1.8.2
     compatible:
+    - 1.7.3
     - 1.7.4
     - 1.8.0-pre.1
     - 1.8.0-pre.2
     - 1.8.0
     - 1.8.1
+    - 1.8.2
     verified: 1.7.4
   dependencies:
   - name: com.unity.mathematics
@@ -4730,17 +4149,16 @@ m_ResolvedPackages:
     scopes: []
     isDefault: 1
     capabilities: 7
-    configSource: 0
   hideInEditor: 0
   isAssetStorePackage: 0
-  datePublishedTicks: 637968489940000000
+  datePublishedTicks: 637914262830000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
     url: https://github.cds.internal.unity3d.com/unity/burst.git
-    revision: e1ba64a3c4edd8d98c9d0f4578f114b61199122c
+    revision: 22fd3afd45fa12529bd8bd647d2a3a3af2e871bc
     path: 
   unityLifecycle:
-    version: 1.7.4
+    version: 1.7.3
     nextVersion: 
